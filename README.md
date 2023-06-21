@@ -11,7 +11,3 @@
 # UI / UX prototype: here [Here](https://drive.google.com/drive/folders/1dIST1RDZpqCLnkumYbin80YknwbdAGBa?usp=sharing)
 
 # Task management table: [Here](NULL)
-# Hướng Dẫn Sử Dụng:
-## Cài Đặt các thứ cần thiết
-1. test
-
