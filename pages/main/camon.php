@@ -1,1 +1,0 @@
-<p>Cảm ơn bạn đã mua hàng, chúng tôi sẽ liên hệ với bạn sớm nhất, iu iu  </p>
