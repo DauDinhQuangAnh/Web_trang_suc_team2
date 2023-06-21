@@ -8,7 +8,7 @@
 - Member: Phạm Thùy Dung-20521214
 
 # Báo cáo: Đã update báo cáo lên github
-# UI / UX prototype: here [Here](NULL)
+# UI / UX prototype: here [Here](https://drive.google.com/drive/folders/1dIST1RDZpqCLnkumYbin80YknwbdAGBa?usp=sharing)
 
 # Task management table: [Here](NULL)
 
