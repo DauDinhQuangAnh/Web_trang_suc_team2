@@ -9,5 +9,6 @@
 
 # Báo cáo: Đã update báo cáo lên github
 # UI / UX prototype: here [Here](https://drive.google.com/drive/folders/1dIST1RDZpqCLnkumYbin80YknwbdAGBa?usp=sharing)
-
-# Task management table: [Here](NULL)
+- Bạn có thể lên youtube để tìm hiểu về XamPP và sử dụng nha
+- Bài làm được làm thuần PHP, các bạn có học HTML CSS và javascript trước thì sẽ dễ hiểu hơn á
+- Tất cả những gì bạn cần học là PHP
